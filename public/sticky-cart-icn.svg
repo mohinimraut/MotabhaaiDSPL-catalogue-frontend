@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2052" data-name="Rectangle 2052" width="32" height="32" transform="translate(-0.115 -0.462)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="sticky-cart-icn" transform="translate(0.115 0.462)" clip-path="url(#clip-path)">
+    <g id="shopping_cart-24px" transform="translate(-0.554 -0.363)">
+      <path id="Path_1237" data-name="Path 1237" d="M0,0H32.613V32.613H0Z" fill="none"/>
+      <path id="Path_1238" data-name="Path 1238" d="M21.438,18.281a2.7,2.7,0,0,0,2.378-1.4l4.865-8.819A1.354,1.354,0,0,0,27.5,6.051H7.387L6.11,3.333H1.667V6.051H4.384L9.276,16.365,7.442,19.681A2.723,2.723,0,0,0,9.82,23.716H26.126V21H9.82l1.495-2.718ZM8.678,8.769h16.51l-3.75,6.794H11.9ZM9.82,25.075a2.718,2.718,0,1,0,2.718,2.718A2.714,2.714,0,0,0,9.82,25.075Zm13.589,0a2.718,2.718,0,1,0,2.718,2.718A2.714,2.714,0,0,0,23.408,25.075Z" transform="translate(-0.308 -0.616)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

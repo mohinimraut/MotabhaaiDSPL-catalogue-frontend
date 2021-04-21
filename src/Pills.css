@@ -1,0 +1,28 @@
+.active12{
+    color: orange;
+}
+.chh{
+    color:black;
+}
+.font1{
+    font-size: 12px;
+}
+.spacing{
+    margin-top: -13px;
+}
+.buttoncard{
+    width: 80px;
+    height: 17px;
+    font-size: 10px;
+    border-radius: 20px;
+    border-color: orange;
+    color: orange;
+    background-color: white;
+    outline: none;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+.widthcard{
+    width:10px
+}
+button:focus {outline:0;}

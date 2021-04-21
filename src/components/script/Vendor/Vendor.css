@@ -1,0 +1,72 @@
+.margin{
+    margin-left: 45px;
+    margin-right: 45px;
+    display:flex;
+}
+.vendorlogo{
+height: 150px;
+width: 150px;
+}
+.d-flex{
+    padding:20px;
+    display:flex;
+  }
+  .d-flex .div1{
+    padding:20px;
+  
+  }
+  .d-flex .address{
+      width: 400px;
+        color: rgb(177, 177, 177);
+  }
+  .rightdetails{
+      margin-top: 35px;
+      text-align: right;
+      margin-right: 20px;
+  }
+  .callicon{
+      height: 20px;
+      width: 20px;
+  }
+  .member{
+    color: rgba(110, 63, 0, 0.671);  
+    font-size: 17px;
+    font-weight: 500;
+  }
+  .email{
+    color: rgba(110, 63, 0, 0.671);  
+    font-size: 18px;
+    margin-top: -10px;
+  }
+  .phone{
+   color: rgb(8, 153, 122);
+   font-size: 17px;
+   margin-top: -10px;
+  
+  }
+  .vendorname{
+      font-size: 35px;
+      font-weight: 600;
+      color: rgb(0, 69, 82);
+  }
+  .venicons{
+      height: 35px;
+      width: 35px;
+  }
+  .venicons1{
+    height: 35px;
+    width: 35px; 
+    margin-right: 10px; 
+  }
+  .venall{
+      margin-top: 20px;
+  }
+  .line{
+      margin-top: -30px;
+      margin-left: 30px;
+      width: 1350px;
+
+  }
+  .margintab{
+    margin-left: 110px;
+  }

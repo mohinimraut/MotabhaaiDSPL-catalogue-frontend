@@ -1,0 +1,220 @@
+.selectmenu{
+    background-color: rgb(219, 248, 255);
+    border: 1px solid rgb(26, 190, 100);
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    width: 100px;
+    font-size:13px ;
+    padding-left: 20px; 
+    outline: none;
+    margin-top: -20px;
+
+}
+.inputcss1{
+border: 1px solid rgb(26, 190, 100);
+border-top-left-radius:none;
+height: 50px;
+outline: none;
+width: 450px;
+position: relative;
+margin-top: -20px;
+}
+.buttoncss{
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: rgb(29, 139, 121);
+    border: none;
+    color: white;
+    width: 110px;
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-top: -20px;
+
+}
+.buttoncss:hover{
+    color: white;
+}
+
+button:focus {outline:0;}
+.font11{
+    font-size: 13px;
+    margin-top: 50px;
+}
+.ig{
+    margin-left: 20px;
+    color: green;
+    font-size: 20px;
+}
+#listid{
+    border-radius: 30px;
+    top: 52px;
+    position: absolute;
+    margin-top: 50px;
+    display: inline-block;
+}
+datalist{
+margin-top: 30px;
+}
+.datali{
+    margin-top: 30px;
+    position: absolute;
+}
+.searchicon{
+    font-size: 25px;
+}
+.marginlist{
+    margin-left: 200px;
+}
+.marginrow{
+    margin-top: -7px;
+}
+.badgecart{
+    width: 16px;
+    height: 16px;
+    border-radius: 8px;
+    background-color: black;
+    color: rgb(255, 255, 255);  
+    position: absolute;
+    font-size: 10px;
+    right: 250px;
+}
+.icon1{
+    position: relative;
+}
+.badgewish{
+    width: 16px;
+    height: 16px;
+    border-radius: 8px;
+    background-color: black;
+    color: rgb(255, 255, 255);  
+    position: absolute;
+    font-size: 10px;
+    right: 180px;
+}
+.icon2{
+    position: relative;
+    margin-right: 20px;
+}
+.allfont{
+    font-size: 15px;
+    font-weight: 500;   
+    color: rgb(16, 48, 117);
+}
+.location{
+    font-weight: 500;
+    color: rgb(12, 27, 114);
+    font-size: 13px;
+}
+.navbar-light22{
+    background-color: white;
+}
+.modal-content1 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    pointer-events: auto;
+    background-color: rgb(255, 255, 255);
+    background-clip: padding-box;
+    box-shadow: 0px 0px 5px 1px;    
+    border-radius: .3rem;
+    outline: 0;
+    margin-top: 115px;
+    width: 300px;
+    left: 52px;
+    padding-left: 10px;
+}
+.modal-header1 {
+    display: flex;
+    flex-shrink: 0;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 1rem 1rem;
+    
+    border-top-left-radius: calc(.3rem - 1px);
+    border-top-right-radius: calc(.3rem - 1px);
+    
+}
+.modal-title1{
+    font-weight: 700;
+    color: rgb(14, 9, 83);
+}
+.modal-body1 {
+    position: relative;
+    flex: 1 1 auto;
+    padding: 1rem;
+    margin-top: -30px;
+}
+.logininfo{
+    color: rgb(129, 129, 129);
+}
+.buttonlogin{
+    width: 240px;
+    height:55px;
+    background-color: rgb(17, 134, 128);    
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+}
+.buttonlogin:hover{
+    color: white;
+}
+.account1{
+    margin-top: 10px;
+    font-size: 15px;
+    color: rgb(163, 163, 163);
+}
+.signup1{
+    color: rgb(17, 134, 128);
+    margin-left: 10px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.sellersp1{
+    font-size: 17px;
+    font-weight: 500;
+    color: rgb(77, 77, 77);
+    margin-left: 20px;
+}
+.sellersp2{
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgb(201, 201, 201);
+}
+
+
+  .modal-content2 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    pointer-events: auto;
+    background-color: rgb(255, 255, 255);
+    background-clip: padding-box;
+    box-shadow: 0px 0px 5px 1px;    
+    border-radius: .3rem;
+    outline: 0;
+    margin-top: 115px;
+    width: 300px;
+    left: 52px;
+    padding-left: 10px;
+
+}
+.modal-header2 {
+    display: flex;
+    flex-shrink: 0;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 1rem 1rem;
+    
+    border-top-left-radius: calc(.3rem - 1px);
+    border-top-right-radius: calc(.3rem - 1px);
+    
+}
+
+.modal-body2 {
+    position: relative;
+    flex: 1 1 auto;
+    padding: 1rem;
+    margin-top: -30px;
+}
+

@@ -1,0 +1,284 @@
+#components-layout-demo-top-side .logo {
+    float: left;
+    width: 120px;
+    height: 31px;
+    margin: 16px 24px 16px 0;
+    background: rgba(255, 255, 255, 0.3);
+  }
+  
+  .ant-row-rtl #components-layout-demo-top-side .logo {
+    float: right;
+    margin: 16px 0 16px 24px;
+  }
+  
+  .site-layout-background { 
+    background: #fff;
+  }
+  .mar8{
+      margin-left: 70px;
+      margin-right: 80px;   
+
+  }
+  .iconrotate{
+      margin-left:450px
+  }
+  .sizer{
+      font-size: 12px;
+  } 
+  p{
+    padding: 0px; 
+ }
+ #d1{
+margin-top: -10px;
+}
+#d0{
+    cursor: pointer;
+    }
+#d2{
+    margin-top: -10px;
+}
+#d3{
+    margin-top: -10px;
+ }
+ #d4{
+    margin-top: -10px;
+}
+#d5{
+    margin-top: -10px;
+}
+#d6{
+    margin-top: -10px;
+}
+#d7{
+    margin-top: -10px;
+}
+#d8{
+    margin-top: -10px;
+}
+#p0{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#q0{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#r0{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#q0{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#s0{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#t0{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#u0{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#v0{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#w0{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#x0{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#y0{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#p1{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#q1{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#r1{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#q1{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#s1{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#t1{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#u1{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#v1{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#w1{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#x1{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#i0{
+    margin-left: 65px;
+}
+#i3{
+    margin-left: 70px;
+}
+#i6{
+    margin-left: 15px;
+}
+#i1{
+    margin-left: 130px;
+}
+#i2{
+    margin-left: 35px;
+}
+#i4{
+    margin-left: 93px;
+}
+#i5{
+    margin-left: 105px;
+}
+#i7{
+    margin-left: 85px;
+}
+#i8{
+    margin-left: 85px;
+}
+#p8{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#q8{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#r8{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#q8{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#s8{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#t8{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#u8{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#v8{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#w8{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#x8{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#y8{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#z8{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#a8{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#b8{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#c8{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#h8{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#e8{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#f8{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#g8{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}

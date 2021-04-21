@@ -1,0 +1,52 @@
+.selectmenu{
+    background-color: rgb(219, 248, 255);
+    border: none;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    width: 100px;
+    font-size:13px ;
+    padding-left: 20px;
+    outline: none;
+
+}
+.inputcss{
+border: none;
+border-top-left-radius:none;
+height: 40px;
+outline: none;
+width: 320px;
+box-shadow: 1px 1px 1px rgb(175, 175, 175), 0 0px 20px rgb(160, 160, 160), 0 0 0px rgb(194, 194, 194);
+
+}
+.buttoncss{
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: rgb(29, 139, 121);
+    border: none;
+    color: white;
+    width: 100px;
+}
+
+button:focus {outline:0;}
+
+.visible12{   
+    visibility: hidden;
+}
+.back{
+    background-color: rgb(236, 122, 122);
+}
+.buttoncss2{
+    border-radius: 25px;
+    color: rgb(194, 73, 73);
+    width:135px;
+    border: none;
+    height: 45px;
+    font-weight:bold ;
+    font-size: 17px;
+}
+
+.m-mar2{
+    margin-left: 75px;
+    margin-right: 75px;
+
+}

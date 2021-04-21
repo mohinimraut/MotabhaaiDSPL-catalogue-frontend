@@ -1,0 +1,149 @@
+.active12{
+    color: orange;
+}
+.chh{
+    color:black;
+}
+.font1{
+    font-size: 12px;
+}
+.spacing{
+    margin-top: -13px;
+}
+.spacing2{
+    margin-top: -20px;
+    padding-top: -20px;
+}
+.buttoncard{
+    width: 80px;
+    height: 17px;
+    font-size: 10px;
+    border-radius: 20px;
+    border-color: orange;
+    color: orange;
+    background-color: white;
+    outline: none;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+.widthcard{
+    width:10px
+}
+button:focus {outline:0;}
+.margincard{
+    margin-top: 20px;
+    margin-left: 70px;
+}
+.margincard:hover{
+    transform: scale(1.1);
+    transition: 0.5s ease-in-out;
+}
+.nav-pills .pill-1 .nav-link:not(.active) {
+    background-color: rgb(255, 255, 255);
+    color:black;
+    text-decoration: none;
+    font-size: 13px;
+}
+.nav-pills .pill-1 .nav-link {
+    background-color: rgb(255, 255, 255);
+    color: rgb(216, 47, 47);
+    text-decoration: underline;
+    font-size: 13px;
+
+}
+.sizeimg{
+width:200px;
+height: 100px;
+margin: 10px;
+border-radius: 10px;
+position: relative;
+}
+.badger{
+background-color: tomato;
+width: 40px;
+color: rgb(236, 236, 236);
+border-radius: 10px;
+height: 20px;
+font-size: 10px;
+top: 17px;
+position: absolute;
+z-index: 10;
+left: 160px;
+padding-top: 2px;
+}
+.badger2{
+    background-color: tomato;
+    width: 40px;
+    color: rgb(236, 236, 236);
+    border-radius: 10px;
+    height: 20px;
+    font-size: 10px;
+    top: 17px;
+    position: absolute;
+    z-index: 10;
+    left: 116px;
+    padding-top: 2px;
+
+    }
+.iconimg{
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    font-size: 12px;
+    top:95px;
+    left:180px;
+    border-radius: 10px;
+    width: 20px;
+    height: 20px;
+}
+.iconimg2{
+    color:red
+}
+.colors{
+    background-color: rgb(243, 243, 243);
+}
+.font2{
+    font-weight:500;
+    font-size: 14px;
+    margin-top: -25px;
+    line-height: 1.2;
+
+}
+.font3{
+    font-weight:500;
+    font-size: 14px;
+}
+.mybutton{
+    background-color: rgb(182, 182, 182);
+    width:80px;
+    height: 20px;
+    font-size: 9px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.express{
+font-size: 12px;
+color: rgb(2, 32, 109);
+font-weight: 500;
+}
+.font5{
+font-size: 12px;
+color: rgb(15, 177, 96);
+font-weight: 500;
+background-color: rgb(223, 223, 223);
+padding-top:0px;
+width:200px;
+}
+.navcolor{
+    color: rgb(15, 177, 96);
+
+}
+.font6{
+font-size: 14px;
+font-weight: 500;
+color: rgb(12, 34, 95);
+}
+.font7{
+    font-size: 12px;
+    font-weight: 500; 
+    color: rgb(190, 190, 190);  
+}

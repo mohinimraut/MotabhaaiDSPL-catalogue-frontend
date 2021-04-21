@@ -1,0 +1,31 @@
+.about{
+    font-size: 25px;
+    font-weight: lighter;
+    color: rgb(160, 160, 160);
+}
+.trust{
+    font-size: 18px;
+    margin-top: -15px;
+}
+.description{
+    width: 700px;
+    text-align: left;
+    color: rgb(0, 0, 0);
+    font-size: 13px;
+    font-weight: 500;
+}
+.overimg1{
+    top: 50px;
+    height: 200px;
+    width: 250px;
+    position: relative;
+}
+.overimg2{
+    top: 800px;
+    height: 200px;
+    width: 250px;
+    position: absolute;
+    right: 120px;
+    bottom: 50px;
+    border-radius: 20px;
+}

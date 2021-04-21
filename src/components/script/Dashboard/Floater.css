@@ -1,0 +1,242 @@
+.box55{
+    height: 80px;
+    width: 80px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: rgba(5, 116, 82, 0.877);
+    z-index: 1000;
+    margin-top: 150px;
+    position:fixed;
+    right: 0;
+}
+.iconsticky{
+    padding-top: 10px;
+    padding-left: 10px;
+    height: 35px;
+    width: 35px;
+}
+.item{
+    color: white;
+    margin-top: -25px;
+    margin-left: 40px;
+}
+.stickyprice{
+    height: 25px;
+    width: 60px;
+    background-color: white;
+    color: black;
+    font-size: small;
+    margin-left: 10px;
+    margin-top: -5px;
+    border-radius: 5px;
+    padding-left: 10px;
+    font-weight: 500;
+}
+.mymodal{
+    height: 400px;
+    width: 700px;
+}
+.modal-dialog{
+    position:fixed;
+        right: 150px;
+    top: -30px;
+}
+
+ .modal-content{
+     right:0px;
+     height: 723px;
+     width: 650px;
+     border-radius: 0px;
+     border-left: none; 
+     box-shadow: 3px 5px 10px 3px rgb(110, 110, 110); 
+ }
+ .cross{
+     margin-top: 10px;
+     height: 70px;
+     width: 70px;
+     margin-right: 40px;
+ }
+ .modal-header{
+     height: 50px;
+     background-color: rgb(248, 248, 248);
+     border-color: rgb(248, 248, 248);
+     padding-top: 25px;
+     padding-bottom: 40px;
+ }
+ 
+ .modal-header .close{
+    padding: 0px;
+    margin-top: -33px;
+    opacity: 1;
+}
+.carticon2{
+    height: 25px;
+    width: 25px;
+    position: relative;
+    margin-top: -5px;
+
+}
+.badgecart2{
+    position: absolute;
+    height: 13px;
+    width: 13px;
+    border-radius: 6.5px;
+    background-color: black;
+    color: white;
+    font-size: 10px;
+    margin-left: 15px;
+    padding-left: 4px;
+    margin-top: -5px;
+}
+.textfield{
+    margin-left: 20px;
+    margin-top: -5px;
+    color: rgb(145, 145, 145);
+}
+
+.d-flex3{
+    padding:1px;
+    display:flex;
+  }
+  .d-flex3 .divcart1{
+    padding:10px;
+  }
+  .d-flex3 .divcart2{
+    padding:10px;
+  }
+  .d-flex3 .divcart3{
+    padding:10px;
+  }
+  .d-flex3 .divcart4{
+    padding:0px;
+  }
+  .imagecart22{
+    height: 110px;
+    width: 150px;
+  }
+  .namecart22{
+      color: black;
+      font-weight: 500;
+      font-size: 19px;
+  }
+  .qtycart{
+      color: rgb(187, 187, 187);
+      font-size: 15px;
+      padding-left: 10px;
+      font-weight: 400;
+  }
+  .stockcart{
+      color: rgb(223, 8, 8);
+      font-size: 13px;
+      font-weight: 500;
+      margin-top: -12px;
+  }
+  .vendorcart33{
+    color: rgb(105, 105, 105);
+    font-size: 13px;
+    font-weight: 500;
+    margin-top: -12px;
+  }
+  .vendorcart22{
+    color: rgb(226, 181, 98);
+
+  }
+  .buttonscart22{
+      font-size: 14px;
+      color: rgb(6, 156, 106);
+      font-weight: 500;
+
+  }
+  .pricecart22{
+      margin-top: 7px;
+      font-size: 15px;
+      color: rgb(187, 187, 187);
+
+  }
+  .inputcart22{
+      width: 40px;
+      height: 30.5px;
+      border: 1px solid rgb(214, 214, 214);
+      border-left: none;
+      border-right: none;
+      padding-left: 14px;
+      
+  }
+  .buttoncart33{
+      margin-left: -1px;
+      border-color: rgb(214, 214, 214);
+      border-right: none;
+      border-radius: 0px;
+      border-top-left-radius: 3px;
+      border-bottom-left-radius: 3px;
+    padding: 0px;
+    padding-left: 10px;
+      height: 30px;
+    margin-top: -5px;
+    
+
+  }
+  .buttoncart44{
+    border-color: rgb(214, 214, 214);
+    border-left: transparent;
+    height: 30px;
+    margin-top: -5px;
+    border-radius: 0px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    padding:0px;
+    padding-right: 10px;
+    font-size: 15px;
+    
+}
+.btn:focus {
+    outline: none;
+    box-shadow: none;
+  }
+.finalprice{
+    margin-top: -40px;
+    margin-left: 15px;
+    color: rgb(17, 22, 87);
+    font-weight: 700;
+
+}
+p.rupee{
+    margin-top: 10px;
+    color: rgb(17, 22, 87);
+    font-weight: 700;
+}
+.secondclose{
+    height: 70px;
+    width: 70px;
+    padding-left: 0px;
+    margin-top: 10px;
+}
+.buttoncheckout{
+    width: 450px;
+    height: 40px;
+    background-color: rgb(15, 160, 141);
+    color: white;
+    border-radius: 20px;
+    margin-right: 100px;
+    padding-right: 0px;
+}
+.modal-footer{
+    height: 100px;
+}
+.chkpice{
+    margin-left: 283px;
+    background-color: white;
+    color: rgb(15, 160, 141);
+    height: 40px;
+    width: 200px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 20px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+
+}
+::-webkit-scrollbar {
+    width: 5px;
+    color: rgb(15, 160, 141);
+  }

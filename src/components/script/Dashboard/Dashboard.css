@@ -1,0 +1,21 @@
+#paratext{
+    font-size: 50px;
+}
+#hi{
+    background-color: rgb(5, 64, 66);
+}
+.bg-light1{
+    background-color: #0c2d4b;
+}
+   
+@media (min-width: 1200px) and (max-width: 1920px) {
+#gty{
+  color: red;
+}
+}
+#gty{
+    color: red;
+  }
+  .font{
+      font-size: 13px;
+  }

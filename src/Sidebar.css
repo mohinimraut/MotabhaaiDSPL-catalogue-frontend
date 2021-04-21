@@ -1,0 +1,81 @@
+#components-layout-demo-top-side .logo {
+    float: left;
+    width: 120px;
+    height: 31px;
+    margin: 16px 24px 16px 0;
+    background: rgba(255, 255, 255, 0.3);
+  }
+  
+  .ant-row-rtl #components-layout-demo-top-side .logo {
+    float: right;
+    margin: 16px 0 16px 24px;
+  }
+  
+  .site-layout-background { 
+    background: #fff;
+  }
+  .mar8{
+      margin-left: 75px;
+      margin-right: 75px;
+
+  }
+  .iconrotate{
+      margin-left:500px
+  }
+  .sizer{
+      font-size: 12px;
+  } 
+  p{
+    padding: 0px; 
+ }
+ #d1{
+margin-top: -10px;
+}
+#d0{
+    cursor: pointer;
+    }
+#d2{
+    margin-top: -10px;
+}
+#d3{
+    margin-top: -10px;
+ }
+ #d4{
+    margin-top: -10px;
+}
+#d5{
+    margin-top: -10px;
+}
+#d6{
+    margin-top: -10px;
+}
+#d7{
+    margin-top: -10px;
+}
+#d8{
+    margin-top: -10px;
+}
+#p0{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#q0{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#r0{
+    margin-top: -10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#i0{
+    margin-left: 70px;
+}
+#i3{
+    margin-left: 115px;
+}
+#i6{
+    margin-left: 20px;
+}
